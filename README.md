@@ -1,2 +1,1 @@
-__Hello there__, /n
-  I'm a pharmacy student who enjoys computer science
+__Hello there__,  I'm a pharmacy student who enjoys computer science
